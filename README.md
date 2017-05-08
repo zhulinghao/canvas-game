@@ -14,4 +14,6 @@
 * 千万不要碰到敌人，碰到敌人的话积分会被清空，并且角色会返回初始位置。
 
 ### 可供选择的人物
-![1](images/char-cat-girl.png)
+![1](images/char-horn-girl.png)
+![2](images/char-princess-girl.png)
+![3](images/char-cat-girl.png)
