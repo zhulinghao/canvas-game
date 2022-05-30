@@ -1,5 +1,5 @@
 
-# 街机游戏克隆项目[点击链接运行此项目](http://htmlpreview.github.io/?https://github.com/zhu8191553/UDACITY/blob/master/index.html)
+# 街机游戏克隆项目[点击链接运行此项目](http://htmlpreview.github.io/?https://github.com/zhulinghao/UDACITY/blob/master/index.html)
 
 
 ### 实现的效果
